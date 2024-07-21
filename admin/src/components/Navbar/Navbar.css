@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.navbar .logo{
+    width: max(10% , 80px);
+
+}
+
+.navbar .profile{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: contain;
+    border: 4px solid green;
+}
+.navbar .profile:hover{
+    border: 4px solid rgb(142, 232, 142);
+}
