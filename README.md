@@ -1,14 +1,11 @@
 ---
-
 # Farmer Connect
 
 ## Project Overview
 
 Farmer Connect is a platform designed to bridge the gap between local farmers and customers. The platform provides an easy way for farmers to sell their produce directly to consumers, while customers can enjoy fresh, locally sourced products. The website features two main user roles: customers and farmers.
 
-## Project Overview
-
-### For Customers
+## For Customers
 
 1. *Account Creation:*
    - Customers can sign up by providing basic information.
@@ -19,7 +16,7 @@ Farmer Connect is a platform designed to bridge the gap between local farmers an
    - To place an order, customers select products, add them to their cart, and proceed to checkout.
    - The process includes entering delivery details and finalizing the purchase.
 
-### For Farmers (Admin Functionality)
+## For Farmers (Admin Functionality)
 
 1. *Product Management:*
    - Farmers can add new products, categorize them, and update product information.
@@ -35,5 +32,4 @@ Farmer Connect is a platform designed to bridge the gap between local farmers an
 ## Feedback & Suggestions
 
 We are continuously working to improve Farmer Connect. If you have any suggestions for enhancing website features or improving user experience, please feel free to submit your feedback. Your input is invaluable to us and helps us serve you better.
-
 ---
