@@ -32,5 +32,5 @@ Product Management
 
 ***Feedback & Suggestions***
 
-We are continuously working to improve Farmer Connect. If you have any suggestions for enhancing website features or improving user experience, please feel free to submit your feedback. Your input is invaluable to us and helps us serve you better.
+I'm continuously working to improve Farmer Connect. If you have any suggestions for enhancing website features or improving user experience, please feel free to submit your feedback. Your input is invaluable to us and helps us serve you better.
 
